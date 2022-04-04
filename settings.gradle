@@ -1,0 +1,3 @@
+rootProject.name = "android-MagicIndicator"
+include ':app'
+include ':library'
